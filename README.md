@@ -1,2 +1,2 @@
 # Web based Memory Blocks Game
-A web based memory testing game using images. For executing the project, double click on the index.html file.
+A web based Memory blocks game built using HTML, CSS and JavaScript. For executing this project, download the repository and click on index.html to open the project in any browser.
